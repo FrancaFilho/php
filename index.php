@@ -9,7 +9,7 @@
 <body>
     <?php
         echo "Milton França Filho, programando em PHP 7.0!";
-        echo "e trabalhando com os comandos do git, para controlar versões no gitHub.";
+        echo "Os comandos do git, para controlar versões no gitHub.";
     ?>
 </body>
 </html>
